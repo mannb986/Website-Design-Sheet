@@ -1,0 +1,109 @@
+body {
+    margin: 0 10%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: "poppins" sans-serif; 
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    border: 2px solid hsla(0, 0%, 69%, 1);
+    padding: 10px; 
+    margin: 10px auto;
+}
+
+.color-panel {
+    display: inline-block;
+    margin: 20px auto;
+    text-align: center;
+    width: 20%;
+    min-height: 100px;
+}
+
+.cool-blue {
+    background-color: hsla(233, 100%, 62%, 1);
+    color: white
+}
+
+.creative-purple {
+    background-color: hsla(277, 100%, 75%, 1);
+    color: white
+}
+
+.friendly-orange {
+    background-color: hsla(14, 100%, 68%, 1);
+    color: white
+}
+
+.calm-gray {
+    background-color: hsla(0, 0%, 69%, 1);
+    color: white
+}
+
+.font-panel {
+    width: 35%;
+    display: inline-block;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.roboto-mono {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+    margin: 20px auto;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: "poppins" sans-serif;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
